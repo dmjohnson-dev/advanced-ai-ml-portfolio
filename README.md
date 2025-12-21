@@ -30,3 +30,24 @@ python src/tune.py
 - data/processed/*.csv
 - models/*.joblib
 - reports/*.txt
+
+
+### Python Package Requirements (pinned versions)
+Install the exact dependencies using `requirements.txt`. Key packages:
+
+- pandas==2.3.3
+- numpy==2.3.5
+- scikit-learn==1.8.0
+- scipy==1.16.3
+- matplotlib==3.10.8
+- joblib==1.5.3
+
+Full dependency list (including transitive dependencies):
+- See `requirements.txt`
+
+### Hardware
+- Standard lab PC (CPU, ~8–16GB RAM; no GPU required)
+
+
+Install exact dependencies:
+pip install -r requirements.txt
