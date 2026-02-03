@@ -2,3 +2,44 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual env
+venv/
+.venv/
+.env/
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data / artifacts
+data/
+datasets/
+models/
+checkpoints/
+weights/
+runs/
+outputs/
+logs/
+wandb/
+*.csv
+*.tsv
+*.parquet
+*.h5
+*.pkl
+*.joblib
+*.npy
+*.npz
+
+# IDE / OS
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
