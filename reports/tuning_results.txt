@@ -1,0 +1,5 @@
+Best Params: {'C': 10.0, 'solver': 'lbfgs'}
+Accuracy:  0.8937
+Precision: 0.8200
+Recall:    0.4141
+F1 Score:  0.5503

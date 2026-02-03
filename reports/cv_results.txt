@@ -1,0 +1,4 @@
+test_accuracy: mean=0.8937, std=0.0045
+test_precision: mean=0.7955, std=0.0342
+test_recall: mean=0.4364, std=0.0251
+test_f1: mean=0.5629, std=0.0224
